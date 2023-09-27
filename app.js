@@ -1,4 +1,4 @@
-/* 
+
 // Ejercicio 1
 let num = parseInt(prompt('Escribe un número'));
 
@@ -52,7 +52,7 @@ while (words !== '') {
         concatenation+=words;
     }
 }
-alert(concatenation); */
+alert(concatenation);
 
 
 // Ejercicio 5
